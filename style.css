@@ -10,6 +10,10 @@ h1 {
     color: rgb(2, 2, 2);
 }
 
+h3 {
+    color: red;
+}
+
 h2 {
     color: rgb(25, 84, 25);
     text-shadow: -1px 1px 0 #000,
